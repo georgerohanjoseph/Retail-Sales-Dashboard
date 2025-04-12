@@ -4,6 +4,9 @@
 
 Welcome to the Retail Sales Dashboard, a powerful data visualization project built using Tableau. This dashboard provides actionable insights into retail sales performance, customer behavior, and product trends, enabling data-driven decision-making.
 
+##Tableau Public
+[Link] (https://public.tableau.com/app/profile/rohan.george2899/viz/RetailSalesDashboard_17444391214240/Story1)
+
 # Key Features
 
 📈 Sales Performance Analysis - Track total sales, revenue trends, and seasonal fluctuations.
